@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-label="EXIF Bot — Photo metadata in Telegram">
+<rect width="960" height="230" rx="8" fill="#f2f3ef"/>
+<path d="M54 86h25l12-17h45l12 17h24v72H54z" fill="none" stroke="#31473e" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="113" cy="121" r="23" fill="none" stroke="#31473e" stroke-width="5"/>
+<path d="M200 59v116" stroke="#ced4ce" stroke-width="2"/>
+<text x="239" y="118" font-family="system-ui,Segoe UI,Arial,sans-serif" font-size="62" font-weight="650" fill="#283d33">EXIF Bot</text>
+<text x="243" y="158" font-family="system-ui,Segoe UI,Arial,sans-serif" font-size="18" fill="#69766d" letter-spacing="2">PHOTO METADATA IN TELEGRAM</text>
+</svg>
