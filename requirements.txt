@@ -1,0 +1,8 @@
+aiogram>=3.0,<4.0
+Pillow>=10.0
+transformers>=4.40
+torch>=2.0
+python-dotenv>=1.0
+# Tokenizers used by the local Marian translation models.
+sentencepiece>=0.2
+sacremoses>=0.1

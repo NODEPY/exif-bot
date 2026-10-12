@@ -1,0 +1,29 @@
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local Python environments and runtime files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.bot.lock
+*.log
+.pytest_cache/
+.cache/
+
+# User images, exports and model weights
+uploads/
+downloads/
+exports/
+models/
+*.safetensors
+*.pt
+*.pth
+
+# System files
+.DS_Store
+Thumbs.db
